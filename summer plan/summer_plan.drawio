@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T02:07:44.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IDBnACIKvUQSRJLY9Xj_" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T02:18:41.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="E9kC89H0OiZoT5-e-ZJS" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="699" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-713" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -152,20 +152,20 @@
         <mxCell id="WCqFs-Lxz6n811bPiyBm-273" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;b&gt;LEARNING ROS&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2105" y="371" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WCqFs-Lxz6n811bPiyBm-276" value="ROS (practical stuff)" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2075" y="1251" width="145" height="150" as="geometry" />
+        <mxCell id="WCqFs-Lxz6n811bPiyBm-280" value="" style="swimlane;startSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1955" y="1241" width="310" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="WCqFs-Lxz6n811bPiyBm-277" value="&lt;font color=&quot;#26ff43&quot;&gt;Async&lt;/font&gt;:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WCqFs-Lxz6n811bPiyBm-276" vertex="1">
-          <mxGeometry x="40" y="70" width="60" height="30" as="geometry" />
+        <mxCell id="WCqFs-Lxz6n811bPiyBm-276" value="ROS (practical stuff)" style="swimlane;whiteSpace=wrap;html=1;" parent="WCqFs-Lxz6n811bPiyBm-280" vertex="1">
+          <mxGeometry x="118" y="9.5" width="192" height="170" as="geometry" />
         </mxCell>
         <mxCell id="WCqFs-Lxz6n811bPiyBm-278" value="&amp;lt;some complete &lt;br&gt;project tutorial&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WCqFs-Lxz6n811bPiyBm-276" vertex="1">
           <mxGeometry x="10" y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WCqFs-Lxz6n811bPiyBm-279" value="&lt;ol&gt;&lt;li&gt;&lt;font color=&quot;#000033&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;a href=&quot;https://jokane.net/agitr/&quot;&gt;A gentle intro to ros in C++&lt;/a&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000033&quot; style=&quot;font-size: 8px;&quot;&gt;Programming Robots with ROS &lt;br&gt;- Morgan Quigley&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=-7;spacingBottom=-4;" parent="WCqFs-Lxz6n811bPiyBm-276" vertex="1">
-          <mxGeometry x="-35" y="80" width="180" height="70" as="geometry" />
+        <mxCell id="WCqFs-Lxz6n811bPiyBm-279" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font color=&quot;#000033&quot; style=&quot;font-size: 8px;&quot;&gt;Programming Robots with ROS&lt;br&gt;- Morgan Quigley&lt;br&gt;- 1 day 1 chapter on average&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#000033&quot;&gt;&lt;a href=&quot;https://jokane.net/agitr/&quot;&gt;A gentle intro to ros in C++&lt;/a&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=-7;spacingBottom=-4;" parent="WCqFs-Lxz6n811bPiyBm-276" vertex="1">
+          <mxGeometry x="12" y="67" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WCqFs-Lxz6n811bPiyBm-280" value="" style="swimlane;startSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1955" y="1241" width="280" height="170" as="geometry" />
+        <mxCell id="WCqFs-Lxz6n811bPiyBm-277" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font color=&quot;#26ff43&quot;&gt;Sync&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font color=&quot;#26ff43&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WCqFs-Lxz6n811bPiyBm-276" vertex="1">
+          <mxGeometry y="69.5" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WCqFs-Lxz6n811bPiyBm-281" value="&lt;font color=&quot;#f70000&quot;&gt;&lt;b&gt;LEARNING ROS&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1950" y="1279" width="110" height="30" as="geometry" />
