@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T02:07:02.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KdF6aNL3fXjXbWIIhXwU" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T02:07:44.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IDBnACIKvUQSRJLY9Xj_" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="-995" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="699" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -225,7 +225,7 @@
           <mxGeometry x="2517.5" y="446" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCqFs-Lxz6n811bPiyBm-299" value="Optimizing C++" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2280" y="1510" width="310" height="105" as="geometry" />
+          <mxGeometry x="2670" y="1310" width="310" height="105" as="geometry" />
         </mxCell>
         <mxCell id="WCqFs-Lxz6n811bPiyBm-300" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;C++ high performance cpp&amp;nbsp; bjorne A&lt;br&gt;- Do 1 chapter a week&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Agner Fog - Optimizing Software in C++&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Effective Modern C++_ 42 Specific Ways&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=-7;spacingBottom=-4;" parent="WCqFs-Lxz6n811bPiyBm-299" vertex="1">
           <mxGeometry x="30" y="15" width="280" height="90" as="geometry" />
@@ -234,7 +234,7 @@
           <mxGeometry x="-8" y="45" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCqFs-Lxz6n811bPiyBm-302" value="NEURAL PREP" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2633" y="845" width="432" height="470" as="geometry" />
+          <mxGeometry x="2633" y="810" width="432" height="470" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;text-align: left;&quot;&gt;1. Factor Graphs&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Micro Lie Theory&lt;br&gt;3. boyds_convex_optimization&lt;/div&gt;" link="https://arxiv.org/pdf/1812.01537" id="WCqFs-Lxz6n811bPiyBm-303">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=-7;spacingBottom=-4;" parent="WCqFs-Lxz6n811bPiyBm-302" vertex="1">
